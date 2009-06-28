@@ -4,12 +4,12 @@
 Summary:	Polish resources for Iceape
 Summary(pl.UTF-8):	Polskie pliki językowe dla Iceape
 Name:		iceape-lang-%{_lang}
-Version:	1.1.16
+Version:	1.1.17
 Release:	1
 License:	MPL 1.1 or GPL v2+ or LGPL v2.1+
 Group:		I18n
 Source0:	http://releases.mozilla.org/pub/mozilla.org/seamonkey/releases/%{version}/contrib-localized/seamonkey-%{version}.%{_lare}.langpack.xpi
-# Source0-md5:	ffc8e1917d040556320fd1e62682f037
+# Source0-md5:	635b9cbb8e0d756b7e1069ce08c15f37
 Source1:	http://www.mozilla-enigmail.org/download/release/0.95/enigmail-%{_lare}-0.95.xpi
 # Source1-md5:	3ac349c7b6a1ebbd80f11c8911f5102d
 Source2:	gen-installed-chrome.sh
